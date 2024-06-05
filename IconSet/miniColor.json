@@ -1,1 +1,246 @@
-{"name":"mini Color", "description":"by Nodewebzsz", "icons":[{"name":"Global", "url":"https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/Global.png"}, {"name":"China", "url":"https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/China.png"}, {"name":"Streaming", "url":"https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/Streaming.png"}, {"name":"StreamingSE", "url":"https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/StreamingSE.png"}, {"name":"StreamingCN", "url":"https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/StreamingCN.png"}, {"name":"Static", "url":"https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/Static.png"}, {"name":"Urltest", "url":"https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/Urltest.png"}, {"name":"Available", "url":"https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/Available.png"}, {"name":"Roundrobin", "url":"https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/Roundrobin.png"}, {"name":"SSID", "url":"https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/SSID.png"}, {"name":"Telegram", "url":"https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/Telegram.png"}, {"name":"Instagram", "url":"https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/Instagram.png"}, {"name":"Speedtest", "url":"https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/Speedtest.png"}, {"name":"Adblock", "url":"https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/Adblock.png"}, {"name":"Final", "url":"https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/Final.png"}, {"name":"Google", "url":"https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/Google.png"}, {"name":"Apple", "url":"https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/Apple.png"}, {"name":"Microsoft", "url":"https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/Microsoft.png"}, {"name":"Twitter", "url":"https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/Twitter.png"}, {"name":"Paypal", "url":"https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/Paypal.png"}, {"name":"GoogleDrive", "url":"https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/GoogleDrive.png"}, {"name":"AppleTV", "url":"https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/AppleTV.png"}, {"name":"Discovery+", "url":"https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/Discovery.png"}, {"name":"Clubhouse", "url":"https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/Clubhouse.png"}, {"name":"NeteaseMusic", "url":"https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/Netease.png"}, {"name":"YouTube", "url":"https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/YouTube.png"}, {"name":"Netflix", "url":"https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/Netflix.png"}, {"name":"Spotify", "url":"https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/Spotify.png"}, {"name":"Emby", "url":"https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/Emby.png"}, {"name":"PLUS", "url":"https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/PLUS.png"}, {"name":"TikTok", "url":"https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/TikTok.png"}, {"name":"Bahamut", "url":"https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/Bahamut.png"}, {"name":"Pornhub", "url":"https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/Pornhub.png"}, {"name":"Bilibili", "url":"https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/Bili.png"}, {"name":"Disney+", "url":"https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/DisneyPlus.png"}, {"name":"HBO", "url":"https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/HBO.png"}, {"name":"Hulu", "url":"https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/Hulu.png"}, {"name":"PrimeVideo", "url":"https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/PrimeVideo.png"}, {"name":"LineTV", "url":"https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/LineTV.png"}, {"name":"Paramount", "url":"https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/Paramount.png"}, {"name":"HK", "url":"https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/HK.png"}, {"name":"MO", "url":"https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/MO.png"}, {"name":"TW", "url":"https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/TW.png"}, {"name":"CN", "url":"https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/CN.png"}, {"name":"GAME", "url":"https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/GAME.png"}, {"name":"JP", "url":"https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/JP.png"}, {"name":"KR", "url":"https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/KR.png"}, {"name":"SG", "url":"https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/SG.png"}, {"name":"VN", "url":"https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/VN.png"}, {"name":"TH", "url":"https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/TH.png"}, {"name":"RU", "url":"https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/RU.png"}, {"name":"UK", "url":"https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/UK.png"}, {"name":"FR", "url":"https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/FR.png"}, {"name":"DE", "url":"https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/DE.png"}, {"name":"TR", "url":"https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/TR.png"}, {"name":"US", "url":"https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/US.png"}, {"name":"CA", "url":"https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/CA.png"}, {"name":"AU", "url":"https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/AU.png"}, {"name":"XD", "url":"https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/XD.png"}, {"name":"UN", "url":"https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/UN.png"}]}
+{
+    "name": "mini Color",
+    "description": "by Nodewebzsz",
+    "icons": [
+        {
+            "name": "Global",
+            "url": "https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/Global.png"
+        },
+        {
+            "name": "China",
+            "url": "https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/China.png"
+        },
+        {
+            "name": "Streaming",
+            "url": "https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/Streaming.png"
+        },
+        {
+            "name": "StreamingSE",
+            "url": "https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/StreamingSE.png"
+        },
+        {
+            "name": "StreamingCN",
+            "url": "https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/StreamingCN.png"
+        },
+        {
+            "name": "Static",
+            "url": "https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/Static.png"
+        },
+        {
+            "name": "Urltest",
+            "url": "https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/Urltest.png"
+        },
+        {
+            "name": "Available",
+            "url": "https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/Available.png"
+        },
+        {
+            "name": "Roundrobin",
+            "url": "https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/Roundrobin.png"
+        },
+        {
+            "name": "SSID",
+            "url": "https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/SSID.png"
+        },
+        {
+            "name": "Telegram",
+            "url": "https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/Telegram.png"
+        },
+        {
+            "name": "Instagram",
+            "url": "https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/Instagram.png"
+        },
+        {
+            "name": "Speedtest",
+            "url": "https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/Speedtest.png"
+        },
+        {
+            "name": "Adblock",
+            "url": "https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/Adblock.png"
+        },
+        {
+            "name": "Final",
+            "url": "https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/Final.png"
+        },
+        {
+            "name": "Google",
+            "url": "https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/Google.png"
+        },
+        {
+            "name": "Apple",
+            "url": "https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/Apple.png"
+        },
+        {
+            "name": "Microsoft",
+            "url": "https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/Microsoft.png"
+        },
+        {
+            "name": "Twitter",
+            "url": "https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/Twitter.png"
+        },
+        {
+            "name": "Paypal",
+            "url": "https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/Paypal.png"
+        },
+        {
+            "name": "GoogleDrive",
+            "url": "https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/GoogleDrive.png"
+        },
+        {
+            "name": "AppleTV",
+            "url": "https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/AppleTV.png"
+        },
+        {
+            "name": "Discovery+",
+            "url": "https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/Discovery.png"
+        },
+        {
+            "name": "Clubhouse",
+            "url": "https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/Clubhouse.png"
+        },
+        {
+            "name": "NeteaseMusic",
+            "url": "https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/Netease.png"
+        },
+        {
+            "name": "YouTube",
+            "url": "https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/YouTube.png"
+        },
+        {
+            "name": "Netflix",
+            "url": "https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/Netflix.png"
+        },
+        {
+            "name": "Spotify",
+            "url": "https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/Spotify.png"
+        },
+        {
+            "name": "Emby",
+            "url": "https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/Emby.png"
+        },
+        {
+            "name": "PLUS",
+            "url": "https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/PLUS.png"
+        },
+        {
+            "name": "TikTok",
+            "url": "https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/TikTok.png"
+        },
+        {
+            "name": "Bahamut",
+            "url": "https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/Bahamut.png"
+        },
+        {
+            "name": "Pornhub",
+            "url": "https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/Pornhub.png"
+        },
+        {
+            "name": "Bilibili",
+            "url": "https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/Bili.png"
+        },
+        {
+            "name": "Disney+",
+            "url": "https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/DisneyPlus.png"
+        },
+        {
+            "name": "HBO",
+            "url": "https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/HBO.png"
+        },
+        {
+            "name": "Hulu",
+            "url": "https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/Hulu.png"
+        },
+        {
+            "name": "PrimeVideo",
+            "url": "https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/PrimeVideo.png"
+        },
+        {
+            "name": "LineTV",
+            "url": "https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/LineTV.png"
+        },
+        {
+            "name": "Paramount",
+            "url": "https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/Paramount.png"
+        },
+        {
+            "name": "HK",
+            "url": "https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/HK.png"
+        },
+        {
+            "name": "MO",
+            "url": "https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/MO.png"
+        },
+        {
+            "name": "TW",
+            "url": "https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/TW.png"
+        },
+        {
+            "name": "CN",
+            "url": "https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/CN.png"
+        },
+        {
+            "name": "GAME",
+            "url": "https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/GAME.png"
+        },
+        {
+            "name": "JP",
+            "url": "https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/JP.png"
+        },
+        {
+            "name": "KR",
+            "url": "https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/KR.png"
+        },
+        {
+            "name": "SG",
+            "url": "https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/SG.png"
+        },
+        {
+            "name": "VN",
+            "url": "https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/VN.png"
+        },
+        {
+            "name": "TH",
+            "url": "https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/TH.png"
+        },
+        {
+            "name": "RU",
+            "url": "https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/RU.png"
+        },
+        {
+            "name": "UK",
+            "url": "https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/UK.png"
+        },
+        {
+            "name": "FR",
+            "url": "https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/FR.png"
+        },
+        {
+            "name": "DE",
+            "url": "https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/DE.png"
+        },
+        {
+            "name": "TR",
+            "url": "https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/TR.png"
+        },
+        {
+            "name": "US",
+            "url": "https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/US.png"
+        },
+        {
+            "name": "CA",
+            "url": "https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/CA.png"
+        },
+        {
+            "name": "AU",
+            "url": "https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/AU.png"
+        },
+        {
+            "name": "XD",
+            "url": "https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/XD.png"
+        },
+        {
+            "name": "UN",
+            "url": "https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color/UN.png"
+        }
+    ]
+}
