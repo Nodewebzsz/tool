@@ -1,0 +1,23 @@
+{
+  "name": "tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "generate_image_array.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nodewebzsz/tool.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nodewebzsz/tool/issues"
+  },
+  "homepage": "https://github.com/Nodewebzsz/tool#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
