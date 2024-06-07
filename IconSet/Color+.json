@@ -1365,6 +1365,10 @@
     {
       "name": "ssLinks",
       "url": "https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color+/ssLinks.png"
+    },
+    {
+      "name": "GoogleVoice",
+      "url": "https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color+/GoogleVoice.png"
     }
   ]
 }
