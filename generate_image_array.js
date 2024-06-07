@@ -1,37 +1,35 @@
 const fs = require('fs');
 const path = require('path');
-
-const folderPath = './IconSet/Color+'; // 请将这行替换为您的实际文件夹路径
-const baseUrl = 'https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/Color+/';
-
-function generateImageArray(folderPath, baseUrl) {
+const baseUrl = 'https://raw.githubusercontent.com/Nodewebzsz/tool/main/IconSet/';
+function generateIconSetObject(folderPath,filename) {
   const files = fs.readdirSync(folderPath);
   const imageArray = [];
-
   files.forEach(file => {
     const extname = path.extname(file);
     if (extname === '.png') { // 只处理 .png 图片
       const name = path.basename(file, extname); // 获取文件名 (不含扩展名)
-      const url = baseUrl + file;
+      const url = baseUrl + filename + '/' + file;
       imageArray.push({ name, url });
     }
   });
-
-  return imageArray;
-}
-
-const imageArray = generateImageArray(folderPath, baseUrl);
-
-// 创建包含图片数组的对象
-const iconSetObject = {
-    name: 'Color+', // 自定义名称
+  // 创建包含图片数组的对象
+  const iconSetObject = {
+    name: filename, // 自定义名称
     description: 'By Nodewebzsz', // 自定义描述
     icons: imageArray
   };
-  // 将对象转换为 JSON 字符串
-const jsonString = JSON.stringify(iconSetObject, null, 2); // 2 表示缩进级别
-
-// 写入 JSON 文件
-fs.writeFileSync('Color+.json', jsonString);
-console.log('Color+.json 文件已生成！');
-// console.log(imageArray); // 输出生成的数组对象
+  return iconSetObject;
+}
+const folderPath = path.join(__dirname, 'IconSet');
+fs.readdir(folderPath, (err, files) => {
+  if (err) {
+    console.error(`Error reading folder: ${err.message}`);
+    return;
+  }
+  files
+    .filter((file) => fs.lstatSync(path.join(folderPath, file)).isDirectory())
+    .forEach((file) => {
+      const filePath = path.join(folderPath, file);
+      fs.writeFileSync(path.join(folderPath, `${file}.json`), JSON.stringify(generateIconSetObject(filePath, baseUrl, file), null, 2));
+    });
+});
