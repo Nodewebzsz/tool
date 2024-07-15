@@ -100,7 +100,7 @@ custom_proxy_group=📱 wiseProxy`select`[]🇺🇲 美国节点
 custom_proxy_group=💳 bitgetProxy`select`[]🇯🇵 日本节点`[]🇰🇷 韩国节点`[]🇺🇲 美国节点
 custom_proxy_group=💳 bybitProxy`select`[]🇯🇵 日本节点`[]🇰🇷 韩国节点`[]🇺🇲 美国节点
 custom_proxy_group=💳 UKBankProxy`select`[]🇬🇧 英国节点
-custom_proxy_group=💳 coinbaseProxy`select`[]🇬🇧 德国节点
+custom_proxy_group=💳 coinbaseProxy`select`[]🇩🇪 德国节点
 
 custom_proxy_group=🔊 googlVoiceProxy`select`(google-us|google-us-test)
 ;设置分组标志位
