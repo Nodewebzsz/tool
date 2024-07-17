@@ -55,6 +55,7 @@ ruleset=💳 bybitProxy,[]DOMAIN-SUFFIX,bybit.nl
 ;ruleset=💳 moneseProxy,[]DOMAIN-SUFFIX,monese.com
 ruleset=💳 UKBankProxy,https://raw.githubusercontent.com/Nodewebzsz/Rule/main/UKbank.list
 ruleset=💳 DEBankProxy,https://raw.githubusercontent.com/Nodewebzsz/Rule/main/DEbank.list
+ruleset=💳 SGBankProxy,https://raw.githubusercontent.com/Nodewebzsz/Rule/main/SGbank.list
 ruleset=🔊 googlVoiceProxy,[]DOMAIN,lens.l.google.com
 ruleset=🚀 节点选择,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/GoogleCNProxyIP.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Download.list
@@ -103,6 +104,8 @@ custom_proxy_group=💳 bitgetProxy`select`[]🇯🇵 日本节点`[]🇰🇷 �
 custom_proxy_group=💳 bybitProxy`select`[]🇯🇵 日本节点`[]🇰🇷 韩国节点`[]🇺🇲 美国节点
 custom_proxy_group=💳 UKBankProxy`select`[]🇬🇧 英国节点
 custom_proxy_group=💳 DEBankProxy`select`[]🇩🇪 德国节点
+custom_proxy_group=💳 SGBankProxy`select`[]🇸🇬 狮城节点
+
 ;custom_proxy_group=💳 coinbaseProxy`select`[]🇩🇪 德国节点
 ;custom_proxy_group=💳 moneseProxy`select`[]🇩🇪 德国节点
 
