@@ -109,7 +109,7 @@ custom_proxy_group=💳 SGBankProxy`select`[]🇸🇬 狮城节点
 ;custom_proxy_group=💳 coinbaseProxy`select`[]🇩🇪 德国节点
 ;custom_proxy_group=💳 moneseProxy`select`[]🇩🇪 德国节点
 
-custom_proxy_group=🔊 googlVoiceProxy`select`(google-us|google-us-test)
+custom_proxy_group=🔊 googlVoiceProxy`select`(google-us|gcp-us)
 ;设置分组标志位
 
 enable_rule_generator=true
