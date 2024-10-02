@@ -50,8 +50,6 @@ ruleset=🚀 节点选择,[]DOMAIN-SUFFIX,services.googleapis.cn
 ruleset=📱 talktoneProxy,[]DOMAIN-SUFFIX,tktn.be
 ruleset=📱 wiseProxy,[]DOMAIN-KEYWORD,wise
 ruleset=💳 bitgetProxy,[]DOMAIN-SUFFIX,bitget.fit
-;ruleset=💳 coinbaseProxy,[]DOMAIN-SUFFIX,coinbase.com
-;ruleset=💳 moneseProxy,[]DOMAIN-SUFFIX,monese.com
 ruleset=💳 UKBankProxy,https://raw.githubusercontent.com/Nodewebzsz/Rule/main/UKbank.list
 ruleset=💳 DEBankProxy,https://raw.githubusercontent.com/Nodewebzsz/Rule/main/DEbank.list
 ruleset=💳 SGBankProxy,https://raw.githubusercontent.com/Nodewebzsz/Rule/main/SGbank.list
@@ -61,7 +59,7 @@ ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/mast
 ruleset=🚀 节点选择,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyGFWlist.list
 ruleset=🎯 全球直连,[]GEOIP,CN,no-resolve
 ruleset=🐟 漏网之鱼,[]FINAL
-;设置规则标志位
+
 
 ;设置分组标志位
 custom_proxy_group=🚀 节点选择`select`[]♻️ 自动选择`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇸🇬 狮城节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🇰🇷 韩国节点`[]🚀 手动切换`[]DIRECT
@@ -105,11 +103,9 @@ custom_proxy_group=💳 bitgetProxy`select`[]🇯🇵 日本节点`[]🇰🇷 �
 custom_proxy_group=💳 UKBankProxy`select`[]🇬🇧 英国节点
 custom_proxy_group=💳 DEBankProxy`select`[]🇩🇪 德国节点
 custom_proxy_group=💳 SGBankProxy`select`[]🇸🇬 狮城节点
-
-;custom_proxy_group=💳 coinbaseProxy`select`[]🇩🇪 德国节点
-;custom_proxy_group=💳 moneseProxy`select`[]🇩🇪 德国节点
-
 custom_proxy_group=🔊 googlVoiceProxy`select`(google-us|gcp-us)
+
+
 ;设置分组标志位
 
 enable_rule_generator=true
