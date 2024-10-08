@@ -48,7 +48,9 @@ ruleset=🎯 全球直连,https://raw.githubusercontent.com/Nodewebzsz/Rule/main
 ruleset=🚀 节点选择,[]DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 ruleset=🚀 节点选择,[]DOMAIN-SUFFIX,services.googleapis.cn
 ruleset=📱 talktoneProxy,[]DOMAIN-SUFFIX,tktn.be
-ruleset=📱 wiseProxy,[]DOMAIN-KEYWORD,wise
+
+;ruleset=📱 wiseProxy,[]DOMAIN-KEYWORD,wise
+
 ruleset=💳 bitgetProxy,[]DOMAIN-SUFFIX,bitget.fit
 ruleset=💳 UKBankProxy,https://raw.githubusercontent.com/Nodewebzsz/Rule/main/UKbank.list
 ruleset=💳 DEBankProxy,https://raw.githubusercontent.com/Nodewebzsz/Rule/main/DEbank.list
@@ -98,7 +100,7 @@ custom_proxy_group=🇩🇪 德国节点`url-test`(DE|de|Germany|德国|🇩🇪
 custom_proxy_group=🇨🇦 加拿大节点`url-test`(CAN |can|Canada|加拿大|🇨🇦)`http://www.gstatic.com/generate_204`300,,50
 custom_proxy_group=🎥 奈飞节点`select`(NF|奈飞|解锁|Netflix|NETFLIX|Media)
 custom_proxy_group=📱 talktoneProxy`select`(google-us|google-us-test)
-custom_proxy_group=📱 wiseProxy`select`[]🇨🇦 加拿大节点
+;custom_proxy_group=📱 wiseProxy`select`[]🇨🇦 加拿大节点
 custom_proxy_group=💳 bitgetProxy`select`[]🇯🇵 日本节点`[]🇰🇷 韩国节点`[]🇺🇲 美国节点
 custom_proxy_group=💳 UKBankProxy`select`[]🇬🇧 英国节点
 custom_proxy_group=💳 DEBankProxy`select`[]🇩🇪 德国节点
